@@ -17,6 +17,7 @@
 	Tutorial Name : <input type="text" ng-model="tutorialName"><br>
 
 	This tutorial is {{tutorialName}}
+10 + 20 = {{ 10 + 20 }}
 </div>
 <script>
 	var app = angular.module('DemoApp',[]);
