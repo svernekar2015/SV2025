@@ -2,10 +2,11 @@
 <html>
 <head>
 	<meta chrset="UTF 8">
-	<link rel="stylesheet" href="css/bootstrap.css"/>
+				<link rel="stylesheet" href="css/bootstrap.css" />
+				<title>Angular JS tutorial</title>
 </head>
 <body>
-<h1> Guru99 Global Event</h1>
+<h1> This is Angular js test code</h1>
 <script src="https://code.angularjs.org/1.6.9/angular.js"></script>
 <script src="lib/angular.js"></script>
 <script src="lib/bootstrap.js"></script>
