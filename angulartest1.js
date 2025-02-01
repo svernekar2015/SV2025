@@ -23,6 +23,7 @@
 
 			40 + 50 = {{ 40 + 50 }}
 		</div>
+		<div>learning angular</div>
 <script>
 	var app = angular.module('DemoApp',[]);
 
