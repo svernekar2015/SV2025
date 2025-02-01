@@ -24,6 +24,7 @@
 
 			70 + 50 = {{ 70 + 50 }}
 		</div>
+	<div>testing PR</div>
 <script>
 	var app = angular.module('DemoApp',[]);
 
