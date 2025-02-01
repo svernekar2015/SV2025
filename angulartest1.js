@@ -6,7 +6,7 @@
 				<title>Angular JS tutorial</title>
 </head>
 <body>
-<h1> This is Angular js test code</h1>
+<h1> This is Angular JS sample test code</h1>
 <script src="https://code.angularjs.org/1.6.9/angular.js"></script>
 <script src="lib/angular.js"></script>
 <script src="lib/bootstrap.js"></script>
@@ -19,11 +19,7 @@
 	This tutorial is {{tutorialName}}
 10 + 20 = {{ 10 + 20 }}
 				</div>
-			</div>
 
-			40 + 50 = {{ 40 + 50 }}
-		</div>
-		<div>learning angular</div>
 <script>
 	var app = angular.module('DemoApp',[]);
 
